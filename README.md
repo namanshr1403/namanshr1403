@@ -4,11 +4,11 @@
   <img width="460" height="300" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">
 </p>
 
-- 🌱 I’m currently learning *Android Devloper & Ethical Hacker, and some coding stuffs*
+- 🌱 I’m currently learning *Android Devloper & Ethical Hacker, and full Stack devloper*
 - 🤔 I’m looking for help with *App, Web Devlopment & cv 🤨🧐*
 - 💬 Ask me Pretty Much *Anything you want and  anytime 😁*
 - 📫 Reach me at *<a href = "https://www.linkedin.com/in/naman-shrivastava-1403/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>*
-- ⚡ Fun fact: *I LOVE CODING ❤ 😂🔫*
+- ⚡ Fun fact: *I am a full Stack devloper ❤ 😂🔫*
 
 
 
