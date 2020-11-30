@@ -11,6 +11,7 @@
 - 📫 Reach me at *<a href = "https://www.instagram.com/namanshrivastava94253/">Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/20px-Instagram_icon.png"/></a>*
 - 📫 Reach me at *<a href = "https://www.facebook.com/naman.shrivastava.5070">Facebook<img align="center" src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/></a>*
 - 📫 Reach me at *<a href = "https://twitter.com/naman_1403">Twitter<img align="center" src="https://img.icons8.com/fluent/25/000000/twitter.png"/></a>*
+- 📫 Reach me at *<a href = "https://medium.com/@namanshrivastava94253">Medium<img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-20.png"/></a>*
 
 - ⚡ Fun fact: *I am a full Stack devloper ❤ 😂🔫*
 
