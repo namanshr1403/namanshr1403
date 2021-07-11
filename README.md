@@ -1,7 +1,7 @@
-### Hi there myself Naman ! <img src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif" width="30px">
+### Hi there myself Naman ! <img src="" width="30px">
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">
+  <img width="460" height="300" src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif">
 </p>
 
 - 🌱 I’m *Android Developer & Web Developer * 
