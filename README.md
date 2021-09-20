@@ -1,9 +1,8 @@
-### Hi there myself Naman ! <img src="" width="30px">
-
+### Hi there myself Naman Shrivastava ! 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif">
 </p>
-
+- <p>Here is my Portfolio a href="http://namanshrivastava94253.me/"</p>
 - 🌱 I’m *Android Developer & Web Developer * 
 - 🌱 I'm "Currently Learning Data Strcuture Algorithm & CP or DP Programming "
 - 🌱 I’m currently learning *Cloud Computing & Ethical Hacking & Linux Kernel*
