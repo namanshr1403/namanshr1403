@@ -2,7 +2,7 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif">
 </p>
-- Here is my Portfolio<a href="http://namanshrivastava94253.me/" target="blank"> Click Here</a>
+- Here is my Portfolio<a href="http://namanshrivastava94253.me/" target="_blank"> Click Here</a>
 
 - 🌱 I’m *Android Developer & Web Developer * 
 - 🌱 I'm "Currently Learning Data Strcuture Algorithm & CP or DP Programming "
