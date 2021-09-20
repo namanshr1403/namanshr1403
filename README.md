@@ -20,7 +20,7 @@
 
 
 <details>
-  <summary><b> Github Stats</b></summary>
+  <summary><b> Github Status</b></summary>
   <a href="https://github.com/Naman123shrivastava">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman123shrivastava&show_icons=true&theme=default" />
 </a>
