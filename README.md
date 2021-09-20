@@ -2,8 +2,9 @@
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif">
 </p>
-- Here is my Portfolio<a href="http://namanshrivastava94253.me/" target="_blank"> Click Here</a>
 
+
+- Here is My Portfolio <a href="http://namanshrivastava94253.me/"> Click Here</a>
 - 🌱 I’m *Android Developer & Web Developer * 
 - 🌱 I'm "Currently Learning Data Strcuture Algorithm & CP or DP Programming "
 - 🌱 I’m currently learning *Cloud Computing & Ethical Hacking & Linux Kernel*
@@ -16,6 +17,8 @@
 - 📫 Reach me at *<a href = "https://medium.com/@namanshrivastava94253">Medium<img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-20.png"/></a>*
 
 - ⚡ Fun fact: *I am a full Stack developer ❤ 😂🔫*
+- 
+
 
 
 
