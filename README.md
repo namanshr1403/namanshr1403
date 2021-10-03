@@ -1,4 +1,6 @@
-### Hi there myself Naman Shrivastava ! 
+<p align = "centre"> 
+   <h1>Naman Shrivastava</h1>
+   </p>
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif">
 </p>
