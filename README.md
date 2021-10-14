@@ -26,7 +26,7 @@
 
 <details>
   <summary><b> Github Status</b></summary>
-  <a href="https://github.com/Naman123shrivastava">
+  <a href="https://github.com/namanshr1403">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman123shrivastava&show_icons=true&theme=default" />
 </a>
 
