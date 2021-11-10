@@ -21,10 +21,12 @@
 - ⚡ Fun fact: *I am a full Stack developer ❤ 😂🔫*
 
 - 🧑‍💻🧑‍💻 <b>Tools & Technologies</b> 
-- <h3>Android Studio</h3>
-- <h3>Web Development</h3>
-- <h3>Java</h3>
-- <h3>C/C++</h3>
+   
+  
+- <h4>Android Studio</h4>
+- <h4>Web Development</h4>
+- <h4>Java</h4>
+- <h4>C/C++</h4>
 
 
 <details>
