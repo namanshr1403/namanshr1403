@@ -19,9 +19,12 @@
 - 📫 Reach me at *<a href = "https://medium.com/@namanshrivastava94253">Medium<img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-20.png"/></a>*
 
 - ⚡ Fun fact: *I am a full Stack developer ❤ 😂🔫*
-- 
 
-
+- 🧑‍💻🧑‍💻 <b>Tools & Technologies</b> 
+- <h3>Android Studio</h3>
+- <h3>Web Development</h3>
+- <h3>Java</h3>
+- <h3>C/C++</h3>
 
 
 <details>
