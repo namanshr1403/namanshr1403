@@ -5,8 +5,9 @@
    <a href="https://www.instagram.com/naman_shr1403/">
    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
    </a>
-   
-   
+   <a href="https://www.linkedin.com/in/naman-shrivastava-1403/"target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+   </a>
    
    
    
