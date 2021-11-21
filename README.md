@@ -46,7 +46,7 @@
 <a href="https://twitter.com/naman_1403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="25" width="25" /></a>
 <a href="https://www.linkedin.com/in/naman-shrivastava-1403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="25" width="25" /></a>
   
- <a href="https://www.instagram.com/namanshrivastava94253/">
+ <a href="https://www.instagram.com/naman_shr1403/">
 <img align="center" alt="naman shrivastava Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="25" width="25" />
 </a>
 <a href="https://www.facebook.com/naman.shrivastava.5070">
