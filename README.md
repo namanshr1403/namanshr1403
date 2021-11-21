@@ -1,20 +1,22 @@
 <p align = "centre"> 
    <h1>Hii There 👋👋👋</h1>
    </p>
-
-
-
+   
+   <a href="https://www.instagram.com/naman_shr1403/">
+   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+   </a>
+   
+   
+   
+   
+   
 - Here is My Portfolio <a href="http://namanshrivastava94253.me/"><img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"/></a>
 - 🌱 I’m *Android Developer & Web Developer * 
 - 🌱 I'm "Currently Learning Data Strcuture Algorithm & CP or DP Programming "
 - 🌱 I’m currently learning *Cloud Computing & Ethical Hacking & Linux Kernel*
 - 🤔 I’m looking for help with *App, Web Devlopment & cv 🤨🧐*
 - 💬 Ask me Pretty Much *Anything you want and  anytime 😁*
-- 📫 Reach me at *<a href = "https://www.linkedin.com/in/naman-shrivastava-1403/">LinkedIn <img align="center" src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>*
-- 📫 Reach me at *<a href = "https://www.instagram.com/namanshrivastava94253/">Instagram <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/20px-Instagram_icon.png"/></a>*
-- 📫 Reach me at *<a href = "https://www.facebook.com/naman.shrivastava.5070">Facebook<img align="center" src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/></a>*
-- 📫 Reach me at *<a href = "https://twitter.com/naman_1403">Twitter<img align="center" src="https://img.icons8.com/fluent/25/000000/twitter.png"/></a>*
-- 📫 Reach me at *<a href = "https://medium.com/@namanshrivastava94253">Medium<img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-20.png"/></a>*
+
 
 - ⚡ Fun fact: *I am a full Stack developer ❤ 😂🔫*
 
