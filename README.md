@@ -32,11 +32,11 @@
 <details>
   <summary><b> Github Status</b></summary>
   <a href="https://github.com/namanshr1403">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman123shrivastava&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanshr1403&show_icons=true&theme=default" />
 </a>
 
 <a href="https://github.com/Naman123shrivastava">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman123shrivastava&show_icons=true&line_height=40&count_private=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=namanshr1403&show_icons=true&line_height=40&count_private=true&theme=default" />
 </a>
 </details>
 
