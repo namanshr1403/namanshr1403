@@ -22,14 +22,13 @@
   <h3>My Intro..</h3>
   <p>
 </p>
-   <p>Myself Naman Shrivastava.I am from Gwalior, India. Currently pursuing Computer Science Engineering from Vellore Institute of Technology. Keen interests are on Mobile App Development, Web Development. Designed and launched a website for a startup company named SOYOC. Developed an android app named DATA PHOENIX using Java & XML, which takes information of users as its input and then automatically saves them in the database for the future reference. 🌱 I'm currently learning ...</p>
+   <p>Myself Naman Shrivastava.I am from Gwalior, India. Currently pursuing Computer Science Engineering from Vellore Institute of Technology. Keen interests are on Mobile App Development, Web Development. Designed and launched a website for a startup company named SOYOC. Developed an android app named DATA PHOENIX using Java & XML, which takes information of users as its input and then automatically saves them in the database for the future reference.</p>
 
 - 🌱 I’m *Android Developer & Web Developer * 
-- 🌱 I'm "Currently Learning Data Strcuture Algorithm & CP or DP Programming "
-- 🌱 I’m currently learning *Cloud Computing & Ethical Hacking & Linux Kernel*
+- 🌱 I'm "Currently Learning Data Strucuture Algorithm & CP or DP Programming "
 - 🤔 I’m looking for help with *App, Web Devlopment & cv 🤨🧐*
 - 💬 Ask me Pretty Much *Anything you want and  anytime 😁*
-- ⚡ Fun fact: *I am a full Stack developer ❤ 😂🔫*
+- ⚡ Fun fact: *I am a full Stack Web Developer ❤ 😂🔫*
 
 
    <h1><b>Tools & Technologies</b></h1> 
