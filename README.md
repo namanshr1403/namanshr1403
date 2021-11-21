@@ -6,7 +6,9 @@
    <a href="http://namanshrivastava94253.me/">
    <img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
    </a>
-   
+   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+   <img src="https://img.icons8.com/color/50/000000/gmail-new.png"/>
+   </a>
    <a href="https://www.instagram.com/naman_shr1403/">
    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
    </a>
