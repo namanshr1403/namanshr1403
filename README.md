@@ -1,9 +1,7 @@
 <p align = "centre"> 
-   <h1>Naman Shrivastava</h1>
+   <h1>Hii There 👋👋👋</h1>
    </p>
-<p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif">
-</p>
+
 
 
 - Here is My Portfolio <a href="http://namanshrivastava94253.me/"><img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"/></a>
