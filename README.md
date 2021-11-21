@@ -58,7 +58,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanshr1403&show_icons=true&theme=default" />
 </a>
 
-<a href="https://github.com/Naman123shrivastava">
+<a href="https://github.com/namanshr1403">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=namanshr1403&show_icons=true&line_height=40&count_private=true&theme=default" />
 </a>
 </details>
