@@ -20,15 +20,26 @@
 
 - ⚡ Fun fact: *I am a full Stack developer ❤ 😂🔫*
 
-- 🧑‍💻🧑‍💻 <b>Tools & Technologies</b> 
+- 🧑‍💻🧑‍💻 <h1><b>Tools & Technologies</b></h1> 
    
-  
-- <h4>Android Studio</h4>
-- <h4>Web Development</h4>
-- <h4>Java</h4>
-- <h4>C/C++</h4>
-
-
+   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+   
+   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+   
+   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+   
+   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+   
+   <img src="https://img.icons8.com/color/48/000000/git.png"/>
+   
+   <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+   
+   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+   
+   <img src="https://img.icons8.com/fluency/48/000000/chatbot.png"/>
+   
+   
+   
 <details>
   <summary><b> Github Status</b></summary>
   <a href="https://github.com/namanshr1403">
