@@ -1,27 +1,36 @@
-<p align = "centre"> 
+<p align = "center"> 
    <h1>Hii There 👋👋👋</h1>
    </p>
+ 
+   
+   <a href="http://namanshrivastava94253.me/">
+   <img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
+   </a>
    
    <a href="https://www.instagram.com/naman_shr1403/">
    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
    </a>
-   <a href="https://www.linkedin.com/in/naman-shrivastava-1403/"target="_blank">
+   <a href="https://www.linkedin.com/in/naman-shrivastava-1403/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
    </a>
    
-   
-   
-- Here is My Portfolio <a href="http://namanshrivastava94253.me/"><img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png"/></a>
+   <a href="https://www.facebook.com/naman.shrivastava.5070/">
+   <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+   </a>
+  <h3>My Intro..</h3>
+  <p>
+</p>
+   <p>Myself Naman Shrivastava.I am from Gwalior, India. Currently pursuing Computer Science Engineering from Vellore Institute of Technology. Keen interests are on Mobile App Development, Web Development. Designed and launched a website for a startup company named SOYOC. Developed an android app named DATA PHOENIX using Java & XML, which takes information of users as its input and then automatically saves them in the database for the future reference. 🌱 I'm currently learning ...</p>
+
 - 🌱 I’m *Android Developer & Web Developer * 
 - 🌱 I'm "Currently Learning Data Strcuture Algorithm & CP or DP Programming "
 - 🌱 I’m currently learning *Cloud Computing & Ethical Hacking & Linux Kernel*
 - 🤔 I’m looking for help with *App, Web Devlopment & cv 🤨🧐*
 - 💬 Ask me Pretty Much *Anything you want and  anytime 😁*
-
-
 - ⚡ Fun fact: *I am a full Stack developer ❤ 😂🔫*
 
-- 🧑‍💻🧑‍💻 <h1><b>Tools & Technologies</b></h1> 
+
+   <h1><b>Tools & Technologies</b></h1> 
    
   
    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
