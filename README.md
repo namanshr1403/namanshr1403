@@ -22,6 +22,7 @@
 
 - 🧑‍💻🧑‍💻 <h1><b>Tools & Technologies</b></h1> 
    
+  
    <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
    
    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
@@ -38,7 +39,7 @@
    
    <img src="https://img.icons8.com/fluency/48/000000/chatbot.png"/>
    
-   
+
    
 <details>
   <summary><b> Github Status</b></summary>
