@@ -3,7 +3,7 @@
    </p>
  
    
-   <a href="http://namanshrivastava94253.me/">
+   <a href="https://namanshr1403.netlify.app/">
    <img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
    </a>
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
