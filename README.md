@@ -28,7 +28,7 @@
 - 🌱 I'm "Currently Learning Data Strucuture Algorithm & CP or DP Programming "
 - 🤔 I’m looking for help with *App, Web Devlopment & cv 🤨🧐*
 - 💬 Ask me Pretty Much *Anything you want and  anytime 😁*
-- ⚡ Fun fact: *I am a full Stack Web Developer ❤ 😂🔫*
+- ⚡ Fun fact: *I am a full Stack Web Developer and Android Developer ❤ 😂🔫*
 
 
    <h1><b>Tools & Technologies</b></h1> 
