@@ -45,6 +45,8 @@
    
    <img src="https://img.icons8.com/fluency/40/000000/python.png"/>
    
+   <img src = "https://img.icons8.com/color/452/c-programming.png">
+      
    <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
    
    <img src="https://img.icons8.com/color/40/000000/git.png"/>
@@ -60,6 +62,13 @@
    <img src="https://img.icons8.com/color/40/000000/css3.png"/>
    
    <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
+   
+   <img src = "https://img.icons8.com/officel/344/php-logo.png">
+  
+   <img src = "https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
+   
+   <img src = "https://cdn-icons-png.flaticon.com/512/6125/6125001.png">
+   
    
    
    
