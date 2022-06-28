@@ -4,7 +4,7 @@
  
    
    <a href="https://namanshr1403.netlify.app/">
-   <img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
+   <img src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1656392260~hmac=811a00aaeee6c54436502db50e6035e2" width="50px" height="50px"/>
    </a>
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
    <img src="https://img.icons8.com/color/50/000000/gmail-new.png"/>
@@ -20,16 +20,24 @@
    <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
    </a>
    <a href ="https://twitter.com/naman_1403">
-   <img src="https://store-images.s-microsoft.com/image/apps.50484.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.2c71c1ea-c28f-4dd1-b72d-c43cdd3476f4" width = "30px">
+   <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1656392168~hmac=f5ecc6702d39c56d049fc44feae47f60" width = "50px" height ="45px">
    </a>
   <h3>My Intro..</h3>
   <p>
 </p>
-   <p>Myself Naman Shrivastava.I am from Gwalior, India. Currently pursuing Computer Science Engineering from Vellore Institute of Technology. Keen interests are on Mobile App Development, Web Development. Designed and launched a website for a startup company named SOYOC. Developed an android app named DATA PHOENIX using Java & XML, which takes information of users as its input and then automatically saves them in the database for the future reference.</p>
+   <p> <b>Currently pursuing B.Tech in computer science engineering from "Vellore Institute of Technology, Bhopal".</b></p>
+   <p> <b>I'm interested to learn new technology in IT demand & I am lot of curious about to learn Backend technologies.</b></p>
+   <p> <b>I have learned some programming languages like C/C++, Java, Python & I am also good problem solver in DSA.</b></p>
+   <p><b>I have to make a lot of project which based on web development(using HTML, CSS, JS)made to Static website and Dynamic website.</b></p>
+   
+
+<br>
+   
 <big>
    
-- 🌱 I’m *Android Developer & Web Developer * 
-- 🌱 I'm "Currently Learning Data Strucuture Algorithm & CP or DP Programming "
+- 🌱 I’m <b>*Android Developer & Web Developer *</b> 
+   <br>
+- <img src="https://cdn-icons-png.flaticon.com/512/1028/1028948.png" width="40px" height="35px">  My interest is in fixing problems.
 - 🤔 I’m looking for help with *App & Web Development 🤨🧐*
 - 💬 Ask me Pretty Much *Anything you want and  anytime 😁*
 - ⚡ Fun fact: *I am a full Stack Web Developer and Android Developer ❤ 😂🔫*
