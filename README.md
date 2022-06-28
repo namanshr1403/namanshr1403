@@ -69,10 +69,10 @@
    <img src = "https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="50px" height="40px">
    
    <img src = "https://cdn-icons-png.flaticon.com/512/6125/6125001.png" width="50px" height="40px">
-  
-   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CDNJS_Logo_-_Web%2C_Dark_Variant.png/800px-CDNJS_Logo_-_Web%2C_Dark_Variant.png" width="50px"    height="50px">
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src = "https://icon2.cleanpng.com/20180605/iri/kisspng-jquery-ui-javascript-front-and-back-ends-java-script-5b167e2ed216c9.4717426115282007508605.jpg"             width="100px" height="30px">
    
-   <img src ="https://brand.jquery.org/resources/jquery-mark-dark.gif" width="50px" height = "50px">
+ 
    
    
 <details>
