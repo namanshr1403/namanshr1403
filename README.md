@@ -45,13 +45,14 @@
    
    <img src="https://img.icons8.com/fluency/40/000000/python.png"/>
    
-   <img src = "https://img.icons8.com/color/452/c-programming.png">
+   <img src = "https://img.icons8.com/color/452/c-programming.png" width="50px" height="40px">
       
    <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
    
    <img src="https://img.icons8.com/color/40/000000/git.png"/>
    
    <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+   <br>
    
    <img src="https://img.icons8.com/color/40/000000/linux--v1.png"/>
    
@@ -63,13 +64,15 @@
    
    <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
    
-   <img src = "https://img.icons8.com/officel/344/php-logo.png">
+   <img src = "https://img.icons8.com/officel/344/php-logo.png" width="50px" height="40px">
   
-   <img src = "https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
+   <img src = "https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="50px" height="40px">
    
-   <img src = "https://cdn-icons-png.flaticon.com/512/6125/6125001.png">
+   <img src = "https://cdn-icons-png.flaticon.com/512/6125/6125001.png" width="50px" height="40px">
+  
+   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/CDNJS_Logo_-_Web%2C_Dark_Variant.png/800px-CDNJS_Logo_-_Web%2C_Dark_Variant.png" width="50px"    height="50px">
    
-   
+   <img src ="https://brand.jquery.org/resources/jquery-mark-dark.gif" width="50px" height = "50px">
    
    
 <details>
