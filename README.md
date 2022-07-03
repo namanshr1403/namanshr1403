@@ -78,8 +78,8 @@
    <img src = "https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="50px" height="40px">
    
    <img src = "https://cdn-icons-png.flaticon.com/512/6125/6125001.png" width="50px" height="40px">
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src = "https://icon2.cleanpng.com/20180605/iri/kisspng-jquery-ui-javascript-front-and-back-ends-java-script-5b167e2ed216c9.4717426115282007508605.jpg"             width="100px" height="30px">
+   &nbsp;&nbsp;
+   <img src = "https://as1.ftcdn.net/v2/jpg/04/08/72/56/1000_F_408725618_WBpy5pjkjYjux4ksrkdYRXOWXPgS8jIV.jpg" width="50px" height="50px">
    
  
    
