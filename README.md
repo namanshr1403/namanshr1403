@@ -4,7 +4,8 @@
  
    
    <a href="https://namanshr1403.netlify.app/">
-   <img src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1656392260~hmac=811a00aaeee6c54436502db50e6035e2" width="50px" height="50px"/>
+   <br>
+   <img src="https://t4.ftcdn.net/jpg/01/27/02/81/240_F_127028116_shduna3P1xEm11PgLmaDP1NChtCfSwLB.jpg" width="50px" height="50px"/>
    </a>
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
    <img src="https://img.icons8.com/color/50/000000/gmail-new.png"/>
