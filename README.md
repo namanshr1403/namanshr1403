@@ -30,7 +30,7 @@
    <p> <b>I'm interested to learn new technology in IT demand & I am lot of curious about to learn Backend technologies.</b></p>
    <p> <b>I have learned some programming languages like C/C++, Java, Python & I am also good problem solver in DSA.</b></p>
    <p><b>I have to make a lot of project which based on web development(using HTML, CSS, JS)made to Static website and Dynamic website.</b></p>
-   
+   <p><b>I have also make a project which is based on Android development using (XML,Java) and database using SQL and Firebase . </b></p>
 
 <br>
    
