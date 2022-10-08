@@ -21,7 +21,7 @@
    <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
    </a>
    <a href ="https://twitter.com/naman_1403">
-   <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1656392168~hmac=f5ecc6702d39c56d049fc44feae47f60" width = "50px" height ="45px">
+   <img src="https://img.icons8.com/color/344/twitter--v1.png" width = "50px" height ="45px">
    </a>
   <h3>My Intro..</h3>
   <p>
