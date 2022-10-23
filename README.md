@@ -23,7 +23,7 @@
    <a href ="https://twitter.com/naman_1403">
    <img src="https://img.icons8.com/color/344/twitter--v1.png" width = "50px" height ="45px">
    </a>
-  <h3>My Intro..</h3>
+  <h2><b>My Intro...</b></h2>
   <p>
 </p>
    <p> <b>Currently pursuing B.Tech in computer science engineering from "Vellore Institute of Technology, Bhopal".</b></p>
@@ -36,9 +36,9 @@
    
 <big>
    
-- 🌱 I’m <b>*Android Developer & Web Developer *</b> 
-   <br>
-- <img src="https://cdn-icons-png.flaticon.com/512/1028/1028948.png" width="40px" height="35px">  My interest is in fixing problems.
+- 🌱 I’m <b>Full Stack Web Developer & Android Developer </b> 
+   <br><span></span>
+- <img src="https://cdn-icons-png.flaticon.com/512/1028/1028948.png" width="20px" height="20px">  My interest is in fixing problems.
 - 🤔 I’m looking for help with *App & Web Development 🤨🧐*
 - 💬 Ask me Pretty Much *Anything you want and  anytime 😁*
 - ⚡ Fun fact: *I am a full Stack Web Developer and Android Developer ❤ 😂🔫*
