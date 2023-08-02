@@ -26,11 +26,13 @@
   <h2><b>My Intro...</b></h2>
   <p>
 </p>
-   <p> <b>Currently pursuing B.Tech in computer science engineering from "Vellore Institute of Technology, Bhopal".</b></p>
-   <p> <b>I'm interested to learn new technology in IT demand & I am lot of curious about to learn Backend technologies.</b></p>
-   <p> <b>I have learned some programming languages like C/C++, Java, Python & I am also good problem solver in DSA.</b></p>
-   <p><b>I have to make a lot of project which based on web development(using HTML, CSS, JS)made to Static website and Dynamic website.</b></p>
-   <p><b>I have also make a project which is based on Android development using (XML,Java) and database using SQL and Firebase . </b></p>
+   <p> <b>I have six months of hands-on experience in Android development at Bajaj Finserv, where I had the opportunity to work with cutting-edge technologies such as 
+      Kotlin and Material UI.</b></p>
+   <p> <b>Currently, I am proudly associated with the Bachelor of Technology (B.Tech) program in Computer Science and Engineering, where I am actively involved in learning new technologies, particularly in IT development. I am also enthusiastic about acquiring knowledge related to Backend technology stacks.</b></p>
+   <p> <b>As an enthusiast of technology and continuous learning, I actively participate in Web Development and Android technology-based communities. I have contributed to open-source projects and enjoy engaging in discussions and finding solutions to coding challenges.</b></p>
+   <p><b>In my free time, I enjoy exploring the latest trends and advancements in the field of technology through various webinars, tutorials, and online courses.
+</b></p>
+   <p><b>Moreover, I possess a great interest in web development and have undertaken a variety of projects that were based on web development, utilizing HTML, CSS, JavaScript, and made use of server-side technologies like PHP, MySQL, and more.</b></p>
 
 <br>
    
